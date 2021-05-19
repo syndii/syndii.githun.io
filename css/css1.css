@@ -1,0 +1,160 @@
+@charset "utf-8";
+/* CSS Document */
+/*弹性盒子:flex*/
+.anqi{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: 1px solid #878787;
+	margin-bottom: 20px;
+}
+.card-{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.card{
+	border: 1px solid #000000
+}
+#ann{
+	width: 90px;
+	text-align: center;
+	background-color: #007bfd;
+	color: white;
+	border: 1px solid #007bfd;
+	border-radius: 4px;
+	float: right;
+	margin-top: 20px;
+}
+.a select{
+	border-radius: 4px;
+}
+#a{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+@media screen and (max-width:1330px){
+	.col-lg-3 img{
+		height: 100%;
+		width: 100%;
+	}
+}
+.a #aa{
+	margin-right: 10px;
+}
+.anqi1{
+	border-bottom: 1px solid #878787;
+	margin-top: 40px;
+}
+.col-lg-6{
+	margin-top: 30px;
+}
+.col-lg-6 .card{
+	border: 1px solid #FFFFFF;
+	
+}
+.col-lg-6 .card .aaa{
+	color: #9b9b9b;
+	width: 100%;
+}
+.col-lg-6 .card .aaaa{
+	color: #000000;
+	width: 100%;
+}
+#aaa{
+	background-color: #007bfd;
+	border-radius: 4px;
+	border: 1px solid #007bfd;
+	color: white;
+	text-align: center;
+	align-content: center;
+}
+.col-lg-4 .card {
+	margin-top: 10px;
+}
+.col-lg-6 .card .card-img-top {
+	margin-bottom: 20px;
+}
+.col-lg-6 .card form #aaaaa{
+	
+	text-align: center;
+}
+#aaaaaa img{
+	display: inline-block;
+	float: right;
+}
+#feng{
+	width: 100%;
+	background-color: #007aff;
+	height: 150px;
+	margin-top: 40px;
+}
+#feng .container .row .col-lg-6 h4{
+	color: white;
+	
+}
+#feng .container .col-lg-6{
+	text-align: center;
+	
+}
+#feng .container .row .col-lg-6 p{
+	color: white;
+}
+#feng .container .row{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+#a1 {
+	position: absolute
+}
+#ooo {
+	position: relative;
+	left: 87%;
+}
+.card {
+	overflow: hidden;
+}
+
+.col-lg-4 .card .card-body .card-text{
+	display:inline-block;
+	font-weight: bolder;
+}
+.col-lg-4 .card .card-body div{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	
+}
+.col-lg-4 .card .card-body{
+	padding:0 20px 0 20px;
+}
+.tou{
+	width: 100%; 
+	background-color: dodgerblue; 
+	height: 50px;
+}
+.anqii{
+	float: left; 
+	padding-left: 30px; 
+	margin-top: 12px
+}
+.anqii a{
+	font-family: 黑体;
+	color: white;
+	font-size: 15px;
+	margin-right: 30px;
+}
+.anqiii{
+	float: right;
+}	
+#liebiao1{
+	background-color:#44B1DF;
+	border-radius: 4px;
+	border: solid 1px #FFFFFF;
+	color: white;
+	padding-left: 10px;
+	margin-right: 8px;
+	margin-top: 10px;
+}
